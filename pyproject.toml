@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "py-stl"
+name = "py-signal-temporal-logic"
 version = "0.1.0"
 description = "Wrapper on metric-temporal-logic to implement signal temporal logic."
 repository = "https://github.com/mvcisback/py-signal-temporal-logic"
