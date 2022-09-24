@@ -1,5 +1,7 @@
 # py-signal-temporal-logic
-Wrapper on metric-temporal-logic to implement signal temporal logic.
+Wrapper on
+[metric-temporal-logic](https://github.com/mvcisback/py-metric-temporal-logic)
+to implement signal temporal logic.
 
 # Installation
 
@@ -29,3 +31,6 @@ data = {
 }
 assert spec(data) == -12
 ```
+
+This works by interpreting anything between curly braces { } as a
+[sympy](https://www.sympy.org/en/index.html) expression.
