@@ -11,7 +11,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-metric-temporal-logic = "^0.3.0"
+metric-temporal-logic = "^0.4.0"
 sympy = "^1.11.1"
 
 [tool.poetry.dev-dependencies]
