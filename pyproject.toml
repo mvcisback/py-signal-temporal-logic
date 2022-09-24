@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-signal-temporal-logic"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wrapper on metric-temporal-logic to implement signal temporal logic."
 repository = "https://github.com/mvcisback/py-signal-temporal-logic"
 authors = ["Marcell Vazquez-Chanlatte <mvc@linux.com>"]
